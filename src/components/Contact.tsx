@@ -10,22 +10,22 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:example@mail.com" data-cursor="disable">
-                example@mail.com
+              <a href="mailto:dcpurohit777@gmail.com" data-cursor="disable">
+                DhavalPurohit@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
             <p>
-              <a href="tel:+919920782622" data-cursor="disable">
-                +91 99999 99999
+              <a href="tel:+919106919080" data-cursor="disable">
+                +91 91069 19080
               </a>
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com"
-              target="_blank"
+              href="https://github.com/DcPurohit"
+              target="https://github.com/DcPurohit"
               data-cursor="disable"
               className="contact-social"
             >
@@ -48,8 +48,8 @@ const Contact = () => {
               Twitter <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com"
-              target="_blank"
+              href="https://www.instagram.com/dc.purohit_/"
+              target="https://www.instagram.com/dc.purohit_/"
               data-cursor="disable"
               className="contact-social"
             >
@@ -58,10 +58,10 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Moncy Yohannan</span>
+              Designed and Developed <br /> by <span>Dhaval Purohit</span>
             </h2>
             <h5>
-              <MdCopyright /> 2024
+              <MdCopyright /> 2025
             </h5>
           </div>
         </div>
